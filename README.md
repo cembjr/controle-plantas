@@ -1,4 +1,5 @@
-Disponibilizei em meu github (https://github.com/cembjr/controle-plantas) um projeto ainda não completo para controle de plantações agrícolas com Aspecto Core. Segue algumas das implementações e suas camadas:
+Projeto ainda não completo de uma Api para controle de plantações agrícolas com AspNet Core. 
+Segue algumas das implementações e suas camadas:
 - Api
 -- Filtros para tratamentos de exceções dentre outros
 -- Autenticação com JWT
