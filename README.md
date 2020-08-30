@@ -1,12 +1,11 @@
-Api para controle de plantações agricolas utilizando:
-
+Disponibilizei em meu github (https://github.com/cembjr/controle-plantas) um projeto ainda não completo para controle de plantações agrícolas com Aspecto Core. Segue algumas das implementações e suas camadas:
 - Api
--- Filtros para tratamentos de excessões 
+-- Filtros para tratamentos de exceções dentre outros
 -- Autenticação com JWT
 -- MediatR 
 -- AutoMapper
 
-- Dominio
+- Domínio
 -- Utilização de Commands e Handlers 
 -- Validações com FluentValidation
 
@@ -15,4 +14,4 @@ Api para controle de plantações agricolas utilizando:
 -- Repository Pattern
 -- Fluent Api para mapeamento de entidades x banco de dados
 
-- Testes de Unidade do dominío
+- Testes de Unidade do domínio
