@@ -12,7 +12,7 @@ namespace ControlePlantas.Api
 {
     public static class Settings
     {
-        public static string Secret = "ControlePlantas@CEMBJR_15997680316";
+        public static string Secret = "ControlePlantas@CEMBJR_15999999996";
 
         public static byte[] Key = Encoding.ASCII.GetBytes(Secret);
 
